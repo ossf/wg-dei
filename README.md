@@ -43,4 +43,6 @@ Linux Foundation meetings involve participation by industry competitors, and it 
 
 The <span style="text-decoration:underline;">CHARTER.md</span> outlines the scope and governance of our group activities.
 
-Lead – [Christine Abernathy](https://github.com/caabernathy) and[ Jay White](https://github.com/camaleon2016)
+Lead – [Marcela Melara](https://github.com/marcelamelara), [Yesenia
+Yser](https://github.com/cyberjiujiteira), and [Jay
+White](https://github.com/camaleon2016).
