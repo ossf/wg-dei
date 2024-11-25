@@ -6,7 +6,7 @@ Body:
 Summary
 <Summary>
 
-Topics Discussed
+## Topics Discussed
 1. <First Topic>
 2. <Second Topic>
 3. <Third Topic>
