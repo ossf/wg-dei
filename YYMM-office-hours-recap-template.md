@@ -1,4 +1,4 @@
-Title: "<Title Here>" - DEI WG Community Office Hour -
+# Title: "<Title Here>" - DEI WG Community Office Hour
 
 Body:
 <Heading>
