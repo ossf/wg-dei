@@ -1,4 +1,4 @@
-Finding Community & Mentors in Open Source
+# Finding Community & Mentors in Open Source
 DEI WG Community Office Hour - 09-26-2024
 The OpenSSF September Community Office Hours is hosted by the DEI working group. The focus of this community office hours is on mentorship and community-building in open-source software and cybersecurity.
 
