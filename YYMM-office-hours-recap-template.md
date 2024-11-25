@@ -11,7 +11,7 @@ Summary
 2. <Second Topic>
 3. <Third Topic>
 
-Learnings Observed
+## Learnings Observed
 Mentees can ...
 
 Maintainers can ...
