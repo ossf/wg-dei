@@ -3,7 +3,7 @@
 Body:
 <Heading>
 
-Summary
+## Summary
 <Summary>
 
 ## Topics Discussed
