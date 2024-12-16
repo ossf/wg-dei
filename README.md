@@ -32,6 +32,11 @@ Every 2 weeks, Tuesday 11am EST. The meeting invite is available on the [public 
 2. [Yesenia Yser](https://github.com/Cyber-JiuJiteria) (Microsoft) 
 3. [Jay White](https://github.com/camaleon2016) (Microsoft)
 
+### Roadmap
+
+To get an idea of our annual goals, our [roadmap](./Roadmap.md) covers
+quarterly focus areas and ongoing activities.
+
 ### Get Involved
 
 Anyone is welcome to join our open discussions related to the group's mission and charter.
