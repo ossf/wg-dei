@@ -1,21 +1,20 @@
+# Technical Charter for Open Source Security Foundation
 
-<h1 align="center">Technical Charter for Open Source Security Foundation</h1>
-
-<h2 align="center">Diversity, Equity and Inclusion (DEI) - Working Group</h2>
+## Diversity, Equity and Inclusion (DEI) - Working Group
 
 Adopted November 28, 2023 by WG Vote
 
 This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Diversity, Equity and Inclusion in the open source community, which has been established as a Working Group (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”). All contributors (including committers, maintainers, and other technical positions) and other participants in the Technical Initiative (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter.
 
-<h2>1. Mission and Scope of the Technical Initiative</h2>
+### 1. Mission and Scope of the Technical Initiative
 
  a)	The mission of this Technical Initiative  is to bolster the cybersecurity workforce by championing diversity, equity, and inclusion initiatives, thereby enhancing the effectiveness and resilience of global cybersecurity efforts. Through strategic collaborations, innovative programs, and targeted advocacy, we aim to amplify the voices and contributions of underrepresented individuals, ensuring a robust and inclusive community capable of addressing evolving cyber threats with proficiency and integrity.
 
- b)	The scope of this Technical initiative is to focus on research, technology implementation, education, collaboration, and continuous improvement to address cybersecurity challenges and protect digital assets.
+ b)	The scope of this Technical Initiative is to focus on research, technology implementation, education, collaboration, and continuous improvement to address cybersecurity challenges and protect digital assets.
 
-<h2>2. Technical initiative roles</h2>
+### 2. Technical initiative roles
 
-a)	The primary points of contact are the lead and co-lead of the Technical Initiative, who are listed in the [README](https://github.com/ossf/wg-best-practices-os-developers/tree/xcorail-patch-1#governance)
+a)	The primary points of contact are the lead and co-lead(s) of the Technical Initiative, who are listed in the [README](https://github.com/ossf/wg-dei/blob/main/README.md#governance)
 
 b)	The Technical Initiative generally will involve Collaborators and Contributors. The Technical Initiative may adopt or modify additional roles so long as the roles are documented in the Technical Initiative’s repository. Unless otherwise documented:
 
@@ -27,7 +26,6 @@ b)	The Technical Initiative generally will involve Collaborators and Contributor
 c) 	Participation in the Technical Initiative through becoming a Contributor, Collaborator, or Maintainer is open to anyone, whether an OpenSSF member or not, so long as they abide by the terms of this Technical Charter.
 
 d)	The Technical Initiative collaboratively manages all aspects of oversight relating to the Technical Initiative, which may include:
-
 - coordinating the direction of the Technical Initiative;
 - approving, organizing or removing activities and projects;
 - establish community norms, workflows, processes, release requirements, and templates for the operation of the Technical Initiative;
@@ -41,10 +39,9 @@ e)	The Technical Initiative lead is responsible for:
 
 f) The Technical Initiative co-lead is supporting the lead in their duties. In the absence of the lead, they can
 - facilitate discussions, seek consensus, and where necessary, vote on technical matters relating to the Technical Initiative;
-  
 - and coordinate any communications regarding the Technical Initiative.
 
-<h2>3. Voting</h2>
+### 3. Voting
 
 a)	While the Technical Initiative aims to operate as a consensus-based community, if any decision requires a vote to move the Technical Initiative forward, the Technical Initiative will vote on a one vote per member basis.
 
@@ -54,7 +51,7 @@ c) 	Decisions by vote at a meeting require a majority vote of those in attendanc
 
 d)	In the event a vote cannot be resolved by the Technical Initiative, the group lead may refer the matter to the TAC for assistance in reaching a resolution.
 
-<h2>4. Compliance with Policies</h2>
+### 4. Compliance with Policies
 
 a)	This Technical Charter is subject to the OpenSSF Charter and any rules or policies established for all Technical Initiatives.
 
@@ -64,7 +61,7 @@ c) 	All Collaborators must allow open participation from any individual or organ
 
 d)	The Technical Initiative will operate in a transparent, open, collaborative, and ethical manner at all times. The output of all Technical Initiative discussions, proposals, timelines, decisions, and status should be made open and easily visible to all. Any potential violations of this requirement should be reported immediately to the TAC.
 
-<h2>5. Community Assets</h2>
+### 5. Community Assets
 
 a)	The Linux Foundation will hold title to all trade or service marks used by the Technical Initiative ("Technical Initiative Trademarks"), whether based on common law or registered rights. Technical Initiative Trademarks may be transferred and assigned to LF Technical Initiatives to hold on behalf of the Technical Initiative. Any use of any Technical Initiative Trademarks by Collaborators in the Technical Initiative will be in accordance with the trademark usage policy of the Linux Foundation, available at [https://www.linuxfoundation.org/trademark-usage](https://www.linuxfoundation.org/trademark-usage/), and inure to the benefit of the Linux Foundation.
 
@@ -72,7 +69,7 @@ b)	The Linux Foundation or Technical Initiative must own or control the reposito
 
 c) 	Under no circumstances will the Linux Foundation be expected or required to undertake any action on behalf of the Technical Initiative that is inconsistent with the policies or tax-exempt status or purpose, as applicable, of the Linux Foundation.
 
-<h2>6. Intellectual Property Policy</h2>
+### 6. Intellectual Property Policy
 
 a)	Collaborators acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Technical Initiative.
 
@@ -89,5 +86,5 @@ c) 	The Technical Initiative may approve the use of an alternative license or li
 
 d)	Contributed files should contain license information, such as SPDX short form identifiers, indicating the open source license or licenses pertaining to the file.
 
-<h2>7. Amendments</h2>
+### 7. Amendments
 a)  This charter may be amended by a two-thirds vote of Collaborators and is subject to approval by the TAC.
