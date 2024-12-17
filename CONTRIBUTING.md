@@ -16,7 +16,7 @@ We value all contributions, from improving documentation to participating in dis
 - Attend working group meetings listed on the public calendar.
 
 ### 2. Report Issues or Suggest Enhancements
-- Use the GitHub Issues tab to report problems or suggest ideas.
+- Use the [GitHub Issues](https://github.com/ossf/wg-dei/issues) tab to report problems or suggest ideas.
 - Follow our issue template to provide clear and detailed information.
 
 ### 3. Submit Pull Requests

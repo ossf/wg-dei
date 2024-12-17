@@ -43,6 +43,7 @@ Anyone is welcome to join our open discussions related to the group's mission an
 * Official communications occur on the DEI Working Group [mailing list](https://lists.openssf.org/g/openssf-wg-dei)
 * Manage your subscriptions to [Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups)
 * Join the conversation on [Slack](https://app.slack.com/client/T019QHUBYQ3/C068TF7AH0U)
+* Explore the [GitHub Issues](https://github.com/ossf/wg-dei/issues) to collaborate 
 
 ### Additional Details
 
