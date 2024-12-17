@@ -36,7 +36,7 @@ Every 2 weeks, Tuesday 11am EST. The meeting invite is available on the [public 
 
 Anyone is welcome to join our open discussions related to the group's mission and charter.
 
-* [2025 Meeting Minutes]()
+* [2025 Meeting Minutes](https://docs.google.com/document/d/17j8uN_radgNcY4G8u1Ua8FN__lUL4TeUN0gb-D2TrZ4/edit?tab=t.0)
 * [2024 Meetings Minutes](https://docs.google.com/document/d/1zGTOJdFVIMnixT3EFQ6_bbQ0iy7f4Z4TxhX9A5VY9TM/edit#heading=h.9m0zi4b0wnne)
 
 #### Communication Channels

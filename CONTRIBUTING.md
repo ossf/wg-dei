@@ -1,4 +1,4 @@
-# Contributing to the DEI Working Group
+# Contributing to the OpenSSF DEI Working Group
 
 Welcome! We're excited that you're interested in contributing to the Diversity, Equity, and Inclusion (DEI) Working Group. We aim to create a supportive, inclusive environment where everyone can thrive and make meaningful contributions.
 
