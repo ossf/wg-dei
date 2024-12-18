@@ -9,17 +9,19 @@ Anyone is welcome to join our open discussions related to the group's mission an
 
 Ready to contribute? Start by reviewing our [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to participate. You'll find details on connecting with us through our public calendar and Slack channel, reporting issues, suggesting improvements, and submitting pull requests. We look forward to building a more inclusive cybersecurity community together!
  
-### Objective
+### Mission
 
-The objective of the Diversity, Equity, and Inclusion Working Group is to foster a more diverse and inclusive cybersecurity workforce by implementing strategies to increase representation and enhance effectiveness through advocacy, collaboration, and tailored initiatives.
+The mission of the DEI Working Group (WG) is to foster a more diverse and inclusive cybersecurity workforce by implementing strategies to increase representation and enhance effectiveness through advocacy, collaboration, and tailored initiatives.
 
-### Vision
+Our vision is to make sure that everyone has a fair chance to be part of the cybersecurity team. Our goal is to support a strong and diverse group of people who can keep our digital world safe.
 
-Our vision is to make sure that everyone has a fair chance to be part of the cybersecurity team. Our goal is to build a strong and diverse group of people who can keep our digital world safe.
+### Ongoing Activities
 
-### Scope
+* Community Office Hours: These are our flagship monthly topic-centered panel discussions.
+Check out our [schedule](https://docs.google.com/spreadsheets/d/1aTAUL4YAlB5a_LCzKp4lAfD6sbUFkr6r5d5r1mlNWvo/edit?gid=0#gid=0) for upcoming sessions!
 
-The scope of this Technical initiative is to focus on research, technology implementation, education, collaboration, and continuous improvement to address cybersecurity challenges and protect digital assets.
+* Conference talks: We collaborate with community members and other DEI groups to
+host panel discussions and meetups at industry conferences. Feel free to [reach out](#communication-channels) if you'd like to join us at an upcoming conference!
 
 ## Working Group Info
 
@@ -31,6 +33,11 @@ Every 2 weeks, Tuesday 11am EST. The meeting invite is available on the [public 
 1. [Marcela Melara](https://github.com/marcelamelara) (Intel)
 2. [Yesenia Yser](https://github.com/Cyber-JiuJiteria) (Microsoft) 
 3. [Jay White](https://github.com/camaleon2016) (Microsoft)
+
+### Roadmap
+
+To get an idea of our annual goals, our [roadmap](./Roadmap.md) covers
+quarterly focus areas and ongoing activities.
 
 ### Get Involved
 
@@ -45,11 +52,9 @@ Anyone is welcome to join our open discussions related to the group's mission an
 * Join the conversation on [Slack](https://app.slack.com/client/T019QHUBYQ3/C068TF7AH0U)
 * Explore the [GitHub Issues](https://github.com/ossf/wg-dei/issues) to collaborate 
 
-### Additional Details
+### Meeting Archive
 
-### Community Office Hours Archive
-
-Missed a Community Office Hours session? Watch past sessions on our [YouTube Playlist](https://youtube.com/playlist?list=PLVl2hFL_zAh-5YC3PnIbc14KDEYsgLYBs&si=aTFpeeRCgA4KNjn9). Stay informed, learn from discussions, and catch up on important updates.
+Missed a WG meeting or Community Office Hours session? Watch past sessions on our [YouTube Playlist](https://youtube.com/playlist?list=PLVl2hFL_zAh-5YC3PnIbc14KDEYsgLYBs&si=aTFpeeRCgA4KNjn9). Stay informed, learn from discussions, and catch up on important updates.
 
 ### Antitrust Policy Notice
 
@@ -57,4 +62,4 @@ Linux Foundation meetings involve participation by industry competitors, and it 
 
 ### Governance
 
-The [CHARTER.md](./Technical%20Charter.md) outlines the scope and governance of our group activities.
+The [CHARTER.md](./CHARTER.md) outlines the scope and governance of our group activities.
