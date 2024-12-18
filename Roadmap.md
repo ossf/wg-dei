@@ -14,7 +14,14 @@ This will be a monthly series of social media posts,
 in which we highlight a specific OpenSSF community member and a career or
 tech tip they would like to share with the OpenSSF and beyond.
 
-### Q1/Q2: Mentorship
+### Q1: Welcome Calls
+
+Other OSS foundations or communities host monthly virtual onboarding meetings,
+in which new community members are given an overview of the ongoing OpenSSF
+initiatives and can learn about getting involved. We are considering to
+collaborate with other foundations on this.
+
+### Q2/Q3: Mentorship
 
 Ahead of summer 2025, the WG is seeking collaboration with
 other OpenSSF TIs to enroll in the
@@ -30,13 +37,6 @@ Looking at how other foundations do this, CNCF seems to have
 [3 mentorship cycles per year](https://github.com/cncf/mentoring/blob/main/programs/lfx-mentorship/README.md#program-cycles-and-archive-data), which is
 something we can strive for once we have enough momentum during the summer.
 
-### TBD: Welcome Calls
-
-Other OSS foundations or communities host monthly virtual onboarding meetings,
-in which new community members are given an overview of the ongoing OpenSSF
-initiatives and can learn about getting involved. We are considering to
-collaborate with other foundations on this.
-
 ### TBD: Inclusive Contributing Guidelines
 
 There have been [a](https://github.com/ossf/tac/issues/330) [few](https://github.com/ossf/tac/issues/169) asks
@@ -49,16 +49,16 @@ as part of their lifecycle requirements.
 
 ### Ongoing Activities
 
-#### Community Office Hours
+#### 1. Community Office Hours
 
 These are our flagship monthly topic-centered panel discussions. In 2025, our
 theme will be "Safe spaces for community-focused discussions".
 
-#### Conference Participation
+#### 2. Conference Participation
 
 To continue raising awareness of different communities' needs and act as a
 welcoming gateway to getting involved in the OpenSSF community, we plan to
-collaborate with community members and other dEI groups to host panel
+collaborate with community members and other DEI groups to host panel
 discussions and talks at different industry conferences.
 
 Possible 2025 topics include: Hiring practices, allyship and privilege, creating
@@ -67,7 +67,7 @@ encouraging space for newcomers, and elevating different voices.
 We also plan to coordinate with other DEI groups to organize meetups at
 conferences.
 
-#### Improving Workflow Efficiency
+#### 3. Improving Workflow Efficiency
 
 We will continue our efforts in easing our preparation, documentation and
 marketing workflows for our current and upcoming activities. This includes
