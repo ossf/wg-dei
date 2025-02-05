@@ -1,4 +1,4 @@
-# OpenSSF DEI WG Roadmap
+# OpenSSF BEAR WG Roadmap
 
 The WG is planning for the following focus areas and activities.
 
@@ -58,7 +58,7 @@ theme will be "Safe spaces for community-focused discussions".
 
 To continue raising awareness of different communities' needs and act as a
 welcoming gateway to getting involved in the OpenSSF community, we plan to
-collaborate with community members and other DEI groups to host panel
+collaborate with community members and DEI groups to host panel
 discussions and talks at different industry conferences.
 
 Possible 2025 topics include: Hiring practices, allyship and privilege, creating
