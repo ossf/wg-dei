@@ -1,7 +1,7 @@
 # Standard Operating Procedure (SOP) for Managing and Maintaining YouTube Videos
 
 ## Purpose
-This SOP outlines the process for managing YouTube videos for the DEI Working Group to ensure content is current, optimized for SEO, and effectively promoted through social media.
+This SOP outlines the process for managing YouTube videos for the BEAR Working Group to ensure content is current, optimized for SEO, and effectively promoted through social media.
 
 ## Workflow Overview
 1. **Upload Video**
@@ -23,7 +23,7 @@ This SOP outlines the process for managing YouTube videos for the DEI Working Gr
 #### **YouTube Title**
 - Use a clear, descriptive title.
 - Include relevant keywords for SEO.
-- Example: "DEI Working Group: How to Foster Inclusion in Open Source | Community Office Hours"
+- Example: "BEAR Working Group: How to Foster Inclusion in Open Source | Community Office Hours"
 
 #### **YouTube Description + Links**
 - **Intro Paragraph:** Write a compelling summary of the video (2-3 sentences).
@@ -38,7 +38,7 @@ This SOP outlines the process for managing YouTube videos for the DEI Working Gr
 - Design a custom thumbnail using a consistent template.
 - Include:
   - Video title (shortened if needed).
-  - DEI Working Group logo (if applicable).
+  - BEAR Working Group logo (if applicable).
   - Visuals that match the session theme.
 - Upload the thumbnail before publishing.
 
@@ -47,9 +47,9 @@ This SOP outlines the process for managing YouTube videos for the DEI Working Gr
 - Add the recap to the YouTube video description.
 
 ### 5. Promote on Social Media
-- Share the published video on the DEI Working Group’s official social media accounts.
+- Share the published video on the BEAR Working Group’s official social media accounts.
 - Write a short post highlighting the session's main points and link to the video.
-- Use relevant hashtags for visibility (e.g., #OpenSource, #DEI, #Cybersecurity).
+- Use relevant hashtags for visibility (e.g., #OpenSource, #Diversity, #Belonging, #Empowerment, #Allyship, #Representation #Cybersecurity).
 
 ---
 
@@ -57,5 +57,5 @@ This SOP outlines the process for managing YouTube videos for the DEI Working Gr
 - **Monthly Check-In:** Review published videos monthly for outdated links or content.
 - **Analytics Review:** Evaluate video performance quarterly and adjust keywords, titles, and descriptions based on analytics insights.
 
-By following this SOP, we aim to keep our YouTube content well-organized, search-optimized, and aligned with our DEI Working Group mission.
+By following this SOP, we aim to keep our YouTube content well-organized, search-optimized, and aligned with our BEAR Working Group mission.
 
