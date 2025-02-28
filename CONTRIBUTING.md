@@ -1,6 +1,6 @@
 # Contributing to the OpenSSF BEAR Working Group
 
-Welcome! We're excited that you're interested in contributing to the Diversity, Equity, and Inclusion (BEAR) Working Group. We aim to create a supportive, inclusive environment where everyone can thrive and make meaningful contributions.
+Welcome! We're excited that you're interested in contributing to the Belonging, Empowerment, Allyship and Representation (BEAR) Working Group. We aim to create a supportive, inclusive environment where everyone can thrive and make meaningful contributions.
 
 ## How to Connect with Us
 
