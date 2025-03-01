@@ -1,5 +1,5 @@
 
-# Diversity, Equity and Inclusion (BEAR) for Open Source Developers
+# Belonging, Empowerment, Allyship and Representation (BEAR) for Open Source Developers
 
 ## Welcome to the OpenSSF BEAR Working Group!</h1>
 
