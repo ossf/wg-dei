@@ -1,17 +1,17 @@
 
-# Diversity, Equity and Inclusion (DEI) for Open Source Developers
+# Diversity, Equity and Inclusion (BEAR) for Open Source Developers
 
-## Welcome to the OpenSSF DEI Working Group!</h1>
+## Welcome to the OpenSSF BEAR Working Group!</h1>
 
 Anyone is welcome to join our open discussions related to the group's mission and charter.
 
 ### Quick Start
 
 Ready to contribute? Start by reviewing our [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to participate. You'll find details on connecting with us through our public calendar and Slack channel, reporting issues, suggesting improvements, and submitting pull requests. We look forward to building a more inclusive cybersecurity community together!
- 
+
 ### Mission
 
-The mission of the DEI Working Group (WG) is to foster a more diverse and inclusive cybersecurity workforce by implementing strategies to increase representation and enhance effectiveness through advocacy, collaboration, and tailored initiatives.
+The mission of the BEAR Working Group (WG) is to foster a more diverse and inclusive cybersecurity workforce by implementing strategies to increase representation and enhance effectiveness through advocacy, collaboration, and tailored initiatives.
 
 Our vision is to make sure that everyone has a fair chance to be part of the cybersecurity team. Our goal is to support a strong and diverse group of people who can keep our digital world safe.
 
@@ -20,7 +20,7 @@ Our vision is to make sure that everyone has a fair chance to be part of the cyb
 * Community Office Hours: These are our flagship monthly topic-centered panel discussions.
 Check out our [schedule](https://docs.google.com/spreadsheets/d/1aTAUL4YAlB5a_LCzKp4lAfD6sbUFkr6r5d5r1mlNWvo/edit?gid=0#gid=0) for upcoming sessions!
 
-* Conference talks: We collaborate with community members and other DEI groups to
+* Conference talks: We collaborate with community members and other purpose related groups to
 host panel discussions and meetups at industry conferences. Feel free to [reach out](#communication-channels) if you'd like to join us at an upcoming conference!
 
 ## Working Group Info
@@ -30,8 +30,9 @@ host panel discussions and meetups at industry conferences. Feel free to [reach 
 Every 2 weeks, Tuesday 11am EST. The meeting invite is available on the [public OSSF calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ### Core Team
+
 1. [Marcela Melara](https://github.com/marcelamelara) (Intel)
-2. [Yesenia Yser](https://github.com/Cyber-JiuJiteria) (Microsoft) 
+2. [Yesenia Yser](https://github.com/Cyber-JiuJiteria) (Microsoft)
 3. [Jay White](https://github.com/camaleon2016) (Microsoft)
 
 ### Roadmap
@@ -47,10 +48,11 @@ Anyone is welcome to join our open discussions related to the group's mission an
 * [2024 Meetings Minutes](https://docs.google.com/document/d/1zGTOJdFVIMnixT3EFQ6_bbQ0iy7f4Z4TxhX9A5VY9TM/edit#heading=h.9m0zi4b0wnne)
 
 #### Communication Channels
-* Official communications occur on the DEI Working Group [mailing list](https://lists.openssf.org/g/openssf-wg-dei)
+
+* Official communications occur on the BEAR Working Group [mailing list](https://lists.openssf.org/g/openssf-wg-dei)
 * Manage your subscriptions to [Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups)
 * Join the conversation on [Slack](https://app.slack.com/client/T019QHUBYQ3/C068TF7AH0U)
-* Explore the [GitHub Issues](https://github.com/ossf/wg-dei/issues) to collaborate 
+* Explore the [GitHub Issues](https://github.com/ossf/wg-dei/issues) to collaborate.
 
 ### Meeting Archive
 
